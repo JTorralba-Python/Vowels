@@ -1,0 +1,4 @@
+clear
+echo
+./Vowels.py
+echo
